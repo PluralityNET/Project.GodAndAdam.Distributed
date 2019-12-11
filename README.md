@@ -9,3 +9,4 @@ Inception; all code works at original GOD_AND_ADAM
  * Import God and Adam bionic code
  * Import Project.East1
  * Import SerpentariumsWorlds bionic code
+ * https://github.com/PluralityNET/Project.GodAndAdam.Distributed/issues
