@@ -10,5 +10,6 @@ Inception; all code works at original GOD_AND_ADAM
  * Import Project.East1;
  * Import SerpentariumsWorlds bionic code;
  * Import OpenCog/SingularityNET and https://daia.foundation/ stuff;
+ * Interlink with other PluralityNET stuff — https://github.com/PluralityNET/ ;
  * https://github.com/PluralityNET/Project.GodAndAdam.Distributed/issues ;
  
